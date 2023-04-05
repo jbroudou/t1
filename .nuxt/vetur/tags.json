@@ -1,0 +1,8 @@
+{
+  "BaseButton": {
+    "description": "Auto imported from components/base/Button.vue"
+  },
+  "BaseSection": {
+    "description": "Auto imported from components/base/Section.vue"
+  }
+}
